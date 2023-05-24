@@ -16,8 +16,11 @@
 1.  http://localhost:8080/api/posts/create - Create a post
 1.  http://localhost:8080/api/posts/getAll - Get all post with Category filter
 
----
+###### User
 
+1.  http://localhost:8080/api/user/update - Update User details
+
+---
 
 ## Register route - parameters
 
